@@ -1,0 +1,2 @@
+mkdir -p data11/chuong1
+touch data11/chuong1/.gitkeep
